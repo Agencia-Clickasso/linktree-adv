@@ -1,7 +1,7 @@
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
-import { Phone, Mail, MapPin, Instagram, Linkedin, MessageCircle, Calendar, FileText, Scale, Users } from "lucide-react"
+import { Phone, Mail, MapPin, Instagram, Linkedin, MessageCircle, Calendar, FileText, Scale, Users, Globe } from "lucide-react"
 
 export default function LinktreePage() {
   const links = [
@@ -18,6 +18,13 @@ export default function LinktreePage() {
       icon: MessageCircle,
       href: "https://wa.me/551111967586911",
       color: "bg-green-600 hover:bg-green-700",
+    },
+    {
+      title: "Visite nosso site",
+      description: "Conheça nossa advocacia",
+      icon: Globe,
+      href: "https://lucimeirexavieradvocacia.adv.br",
+      color: "bg-blue-600 hover:bg-blue-700",
     },
     {
       title: "Áreas de Atuação",
