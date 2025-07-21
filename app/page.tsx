@@ -16,7 +16,7 @@ export default function LinktreePage() {
       title: "WhatsApp",
       description: "Fale conosco pelo WhatsApp",
       icon: MessageCircle,
-      href: "https://wa.me/5511999999999",
+      href: "https://wa.me/5511953661237",
       color: "bg-green-600 hover:bg-green-700",
     },
     {
@@ -41,14 +41,14 @@ export default function LinktreePage() {
       title: "LinkedIn",
       description: "Conecte-se profissionalmente",
       icon: Linkedin,
-      href: "#",
+      href: "https://www.linkedin.com/in/lucimeire-xavier-b8b18aa0/",
       color: "bg-blue-600 hover:bg-blue-700",
     },
     {
       title: "Instagram",
-      description: "@lucimeirexavier.adv",
+      description: "@dra.lucimeirexavier",
       icon: Instagram,
-      href: "#",
+      href: "https://www.instagram.com/dra.lucimeirexavier",
       color: "bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600",
     },
   ]
@@ -79,11 +79,11 @@ export default function LinktreePage() {
           <div className="space-y-2 text-sm">
             <div className="flex items-center gap-2 text-gray-700">
               <Phone className="w-4 h-4 text-amber-600" />
-              <span>(11) 99999-9999</span>
+              <span>(11) 95366-1237</span>
             </div>
             <div className="flex items-center gap-2 text-gray-700">
               <Mail className="w-4 h-4 text-amber-600" />
-              <span>contato@lucimeirexavier.adv.br</span>
+              <span>contato@lucimeirexavieradvocacia.adv.br</span>
             </div>
             <div className="flex items-center gap-2 text-gray-700">
               <MapPin className="w-4 h-4 text-amber-600" />
