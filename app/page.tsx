@@ -16,7 +16,7 @@ export default function LinktreePage() {
       title: "WhatsApp",
       description: "Fale conosco pelo WhatsApp",
       icon: MessageCircle,
-      href: "https://wa.me/5511953661237",
+      href: "https://wa.me/551111967586911",
       color: "bg-green-600 hover:bg-green-700",
     },
     {
@@ -79,7 +79,7 @@ export default function LinktreePage() {
           <div className="space-y-2 text-sm">
             <div className="flex items-center gap-2 text-gray-700">
               <Phone className="w-4 h-4 text-amber-600" />
-              <span>(11) 95366-1237</span>
+              <span>(11) 96758-6911</span>
             </div>
             <div className="flex items-center gap-2 text-gray-700">
               <Mail className="w-4 h-4 text-amber-600" />
